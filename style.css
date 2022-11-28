@@ -20,9 +20,12 @@ size: 10;
     border-radius: 10px;
     margin-bottom: 15px;
 }
-.Achievements_head i{
+.achievement_head i{
     float: right;
 }
 .star1{
     color: orangered !important;
+}
+.travel_maindiv{
+    font-size: 20px;
 }
